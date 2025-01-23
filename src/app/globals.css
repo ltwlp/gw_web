@@ -7,6 +7,21 @@
   --foreground: #171717;
 }
 
+@layer base {
+  html {
+    @apply h-full;
+  }
+  body {
+    @apply min-h-full flex flex-col text-gray-900 bg-white;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;

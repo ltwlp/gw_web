@@ -66,10 +66,10 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/products?category=workwear"
+                  href="/products?category=safety-shoes"
                   className="hover:text-white transition-colors"
                 >
-                  Workwear
+                  Safety Shoes
                 </Link>
               </li>
             </ul>

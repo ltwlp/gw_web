@@ -21,10 +21,10 @@ const categories = [
   },
   {
     id: 3,
-    name: 'Workwear',
-    displayName: 'Workwear',
+    name: 'Safety Shoes',
+    displayName: 'Safety Shoes',
     image: '/images/categories/workwear.png',
-    link: '/products?category=workwear'
+    link: '/products?category=safety-shoes'
   }
 ];
 

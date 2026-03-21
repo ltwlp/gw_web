@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="space-y-4">
             <img src="/images/logo-white.png" alt="Logo" className="h-16 w-auto" />
             <p className="text-sm">
-              Professional manufacturer of protective clothing and workwear.
+              Professional manufacture of protective clothing and safety shoes.
             </p>
           </div>
 
@@ -66,10 +66,10 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="/products?category=workwear"
+                  href="/products?category=safety-shoes"
                   className="hover:text-white transition-colors"
                 >
-                  Workwear
+                  Safety Shoes
                 </Link>
               </li>
             </ul>

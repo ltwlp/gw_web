@@ -23,7 +23,7 @@ const categories = [
     id: 3,
     name: 'Safety Shoes',
     displayName: 'Safety Shoes',
-    image: '/images/categories/workwear.png',
+    image: '/images/categories/SafetyShoes.jpg',
     link: '/products?category=safety-shoes'
   }
 ];
